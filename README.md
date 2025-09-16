@@ -1,4 +1,4 @@
-![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhoYWdtc2xuNzB1cmEzeHJtYWkzc2c4NHA2c2JvcWhmeG81OHNxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhoYWdtc2xuNzB1cmEzeHJtYWkzc2c4NHA2c2JvcWhmeG81OHNxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="MasterHead" width="100%" height="300" />
 <h1 align="center">Hi 👋, I'm Amman-Mateen-Zahoor</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjF3MG53d2IyMG1pcnZuemdkZG51aWRlYTl6dzhmcmJscXV2NWx2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
